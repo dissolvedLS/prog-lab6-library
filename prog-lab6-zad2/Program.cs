@@ -9,6 +9,7 @@ namespace prog_lab6_zad2
         {
             Books newbooks = new Books();
             newbooks.OutputAllBooks();
+
             while (true)
             {
                 Console.WriteLine("------------------ Выберите действие. --------------------");
